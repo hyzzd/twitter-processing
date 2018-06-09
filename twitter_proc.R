@@ -1,4 +1,4 @@
-#Xiaohu Zhao (zhao.1722)
+#
 
 # setup & authentication
 install.packages('twitteR')
